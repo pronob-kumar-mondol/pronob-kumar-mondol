@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Pronob</h1>
 <h3 align="center">I'm an Software Developer with expertise in using Java and Kotlin to build beautiful and functional mobile applications.</h3>
 
-<table border="none">
-<tr>
+<table>
+<tr border="none">
 <td>
     <img src="https://komarev.com/ghpvc/?username=pronob-kumar-mondol&label=Profile%20views&color=0e75b6&style=flat" alt="pronob-kumar-mondol" /> <br>
     - 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git) <br>
