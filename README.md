@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pronob</h1>
 <h3 align="center">I'm an Software Developer with expertise in using Java and Kotlin to build beautiful and functional mobile applications.</h3>
 
-<div style="display:flex; gap:30px;">
+<div style="display:float;>
 <div align="right">
     <img alt="coding" width="200" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
 </div>
