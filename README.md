@@ -51,19 +51,14 @@
 <table>
 <tr>
 <td>
-    <img alt="coding" width="200" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
-</td>
-<td align="right">
     <img src="https://komarev.com/ghpvc/?username=pronob-kumar-mondol&label=Profile%20views&color=0e75b6&style=flat" alt="pronob-kumar-mondol" />
     - 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/pronob-kumar-mondol](https://github.com/pronob-kumar-mondol)
-
-- 📫 How to reach me **pronob2055@gmail.com**
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronob-kumar-mondol&" alt="pronob-kumar-mondol" /></p>
-
+    - 👨‍💻 All of my projects are available at [https://github.com/pronob-kumar-mondol](https://github.com/pronob-kumar-mondol)
+    - 📫 How to reach me **pronob2055@gmail.com**
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronob-kumar-mondol&" alt="pronob-kumar-mondol" /></p>
+</td>
+<td align="right">
+     <img alt="coding" width="200" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
 </td>
 </tr>
 </table>
