@@ -4,15 +4,15 @@
 <h3 align="center">I'm an Software Developer with expertise in using Java and Kotlin to build beautiful and functional mobile applications.</h3>
 
 <table>
-<tr border="none">
-<td>
+<tr>
+<td border="none">
     <img src="https://komarev.com/ghpvc/?username=pronob-kumar-mondol&label=Profile%20views&color=0e75b6&style=flat" alt="pronob-kumar-mondol" /> <br>
     - 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git) <br>
     - 👨‍💻 All of my projects are available at [https://github.com/pronob-kumar-mondol](https://github.com/pronob-kumar-mondol) <br>
     - 📫 How to reach me **pronob2055@gmail.com** <br>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronob-kumar-mondol&" alt="pronob-kumar-mondol" /></p> <br>
 </td>
-<td align="right">
+<td align="right" border="none">
      <img alt="coding" width="200" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
 </td>
 </tr>
