@@ -3,21 +3,20 @@
 <h1 align="center">Hi 👋, I'm Pronob</h1>
 <h3 align="center">I'm an Software Developer with expertise in using Java and Kotlin to build beautiful and functional mobile applications.</h3>
 
-<div>
-<div float="right">
-    <img alt="coding" width="200" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
-</div>
-
-<div float="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pronob-kumar-mondol&label=Profile%20views&color=0e75b6&style=flat" alt="pronob-kumar-mondol" /> </p>
-
-- 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/pronob-kumar-mondol](https://github.com/pronob-kumar-mondol)
-
-- 📫 How to reach me **pronob2055@gmail.com**
-</div>
-</div>
+<table>
+<tr>
+<td>
+    <img src="https://komarev.com/ghpvc/?username=pronob-kumar-mondol&label=Profile%20views&color=0e75b6&style=flat" alt="pronob-kumar-mondol" /> <br>
+    - 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git) <br>
+    - 👨‍💻 All of my projects are available at [https://github.com/pronob-kumar-mondol](https://github.com/pronob-kumar-mondol) <br>
+    - 📫 How to reach me **pronob2055@gmail.com** <br>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronob-kumar-mondol&" alt="pronob-kumar-mondol" /></p> <br>
+</td>
+<td align="right">
+     <img alt="coding" width="200" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
+</td>
+</tr>
+</table>
 
 ## 🤝 Connect with me:
 <p align="left">
@@ -36,29 +35,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronob-kumar-mondol&show_icons=true&locale=en&layout=compact" alt="pronob-kumar-mondol" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronob-kumar-mondol&show_icons=true&locale=en" alt="pronob-kumar-mondol" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-<table>
-<tr>
-<td>
-    <img src="https://komarev.com/ghpvc/?username=pronob-kumar-mondol&label=Profile%20views&color=0e75b6&style=flat" alt="pronob-kumar-mondol" /> <br>
-    - 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git) <br>
-    - 👨‍💻 All of my projects are available at [https://github.com/pronob-kumar-mondol](https://github.com/pronob-kumar-mondol) <br>
-    - 📫 How to reach me **pronob2055@gmail.com** <br>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronob-kumar-mondol&" alt="pronob-kumar-mondol" /></p> <br>
-</td>
-<td align="right">
-     <img alt="coding" width="200" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
-</td>
-</tr>
-</table>
