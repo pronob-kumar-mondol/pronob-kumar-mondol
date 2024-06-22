@@ -55,11 +55,7 @@
 </td>
 <td align="right">
     <img src="https://komarev.com/ghpvc/?username=pronob-kumar-mondol&label=Profile%20views&color=0e75b6&style=flat" alt="pronob-kumar-mondol" />
-</td>
-</tr>
-</table>
-
-- 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git)
+    - 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pronob-kumar-mondol](https://github.com/pronob-kumar-mondol)
 
@@ -67,3 +63,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronob-kumar-mondol&" alt="pronob-kumar-mondol" /></p>
+
+</td>
+</tr>
+</table>
