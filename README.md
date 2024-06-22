@@ -10,7 +10,6 @@
     - 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git) <br>
     - 👨‍💻 All of my projects are available at [https://github.com/pronob-kumar-mondol](https://github.com/pronob-kumar-mondol) <br>
     - 📫 How to reach me **pronob2055@gmail.com** <br>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronob-kumar-mondol&" alt="pronob-kumar-mondol" /></p> <br>
 </td>
 <td align="right" style="border: none;">
      <img alt="coding" width="200" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
@@ -35,3 +34,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronob-kumar-mondol&show_icons=true&locale=en&layout=compact" alt="pronob-kumar-mondol" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronob-kumar-mondol&show_icons=true&locale=en" alt="pronob-kumar-mondol" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronob-kumar-mondol&" alt="pronob-kumar-mondol" /></p> <br>
