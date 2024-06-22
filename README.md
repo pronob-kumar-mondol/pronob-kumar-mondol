@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm Pronob</h1>
 <h3 align="center">I'm an Software Developer with expertise in using Java and Kotlin to build beautiful and functional mobile applications.</h3>
 
-<div float="left">
-<div align="right">
+<div>
+<div float="right">
     <img alt="coding" width="200" src="https://tenor.com/view/coding-gif-13839287635814292878.gif">
 </div>
 
-<div align="left">
+<div float="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pronob-kumar-mondol&label=Profile%20views&color=0e75b6&style=flat" alt="pronob-kumar-mondol" /> </p>
 
 - 🔭 I’m currently working on [Remindser](https://github.com/pronob-kumar-mondol/Remindser.git)
